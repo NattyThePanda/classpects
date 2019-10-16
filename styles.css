@@ -1,6 +1,7 @@
 table {
     table-layout: fixed;
-    width: 100%;
+    background-color: white;
+    border-radius: 10px;
 }
 
 table td {
@@ -10,4 +11,8 @@ table td {
 
 span.fonttext{
 	font-size: 40px;
+}
+
+html{
+	background-color: #616161;
 }
