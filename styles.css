@@ -41,5 +41,13 @@ div.indexbuttons{
 	margin-left: 30%;
 }
 
+html.default { 
+  background: url(homestuck-logo.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: auto;
+  background-color: black;
+}
 
 
