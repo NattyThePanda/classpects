@@ -1,0 +1,45 @@
+table {
+    table-layout: fixed;
+    background-color: white;
+    border-radius: 10px;
+}
+
+table td {
+    word-wrap: break-word;         /* All browsers since IE 5.5+ */
+    overflow-wrap: break-word;     /* Renamed property in CSS3 draft spec */
+}
+
+span.fonttext{
+	font-size: 40px;
+}
+
+html{
+	background-color: #616161;
+}
+
+div.marginleft{
+	margin-left: 29.3%;
+}
+
+div.marginleft2{
+	margin-left: 25%;
+}
+
+div.marginleft3{
+	margin-left: 16%;
+}
+
+div.marginleft4{
+	margin-left: 25%;
+}
+
+div.marginleft5{
+	margin-left: 29%;
+}
+
+div.indexbuttons{
+	margin-left: 30%;
+}
+
+
+
